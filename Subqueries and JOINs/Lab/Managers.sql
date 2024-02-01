@@ -1,6 +1,6 @@
 SELECT e.employee_id,
        CONCAT(e.first_name, ' ', e.last_name) AS full_name,
-       e.department_id,
+       d.department_id,
        d.name                                 AS department_name
 FROM employees e
          RIGHT JOIN departments d ON d.manager_id = e.employee_id
