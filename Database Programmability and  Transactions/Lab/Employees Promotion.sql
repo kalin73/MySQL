@@ -1,4 +1,4 @@
-CREATE PROCEDURE usp_raise_salaries(IN department_name VARCHAR(50))
+CREATE PROCEDURE usp_raise_salaries(department_name VARCHAR(50))
 BEGIN
     UPDATE employees e
         JOIN departments d ON e.department_id = d.department_id
