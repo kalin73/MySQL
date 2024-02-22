@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$USER_HOME$/Desktop/Buhtig-Dataset.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/Built-in Functions/Exercises/Countries Holding 'A'.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/Built-in Functions/Exercises/Find First Names of All Employees.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/Built-in Functions/Exercises/Find Names of All Employees by Last Name.sql" dialect="MySQL" />
